@@ -38,6 +38,7 @@ body{
 
 .instagram-phone img{
     height:  40rem;
+;
 }
 
 .instagram-continue{
@@ -78,6 +79,7 @@ body{
 
 .profile-photo img{
     height: 7rem;
+    width: 7rem;
 }
 
 .instagram-login{
